@@ -32,7 +32,7 @@ st.set_page_config(
 )
 
 # ✅ Logo
-st.image("D:\\mainstage_app_structure\\assets\\logo.png", width=120)
+st.image("D:\\Myapp_mainstage\\mainstage_app_structure\\mainstage\\assets\\logo.png", width=120)
 
 # ✅ Main Title
 st.markdown("<h1 style='color:#FFD700;'>🎭 Welcome to MainStage</h1>", unsafe_allow_html=True)
